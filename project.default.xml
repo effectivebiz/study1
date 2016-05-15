@@ -20,17 +20,10 @@
           </profile>
         </annotationProcessing>
       </component>
-      <component name="MavenImportPreferences">
-        <option name="generalSettings">
-          <MavenGeneralSettings>
-            <option name="mavenHome" value="Bundled (Maven 3)" />
-          </MavenGeneralSettings>
-        </option>
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
       </component>
-      <component name="ProjectDictionaryState">
-        <dictionary name="ARBALEST" />
-      </component>
-      <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+      <component name="ProjectLevelVcsManager" settingsEditedManually="true">
         <OptionsSetting value="true" id="Add" />
         <OptionsSetting value="true" id="Remove" />
         <OptionsSetting value="true" id="Checkout" />
@@ -40,32 +33,16 @@
         <ConfirmationsSetting value="0" id="Add" />
         <ConfirmationsSetting value="0" id="Remove" />
       </component>
-      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" assert-keyword="true" jdk-15="true" project-jdk-name="Android API 23 Platform" project-jdk-type="Android SDK">
-        <output url="file://G:/Android_Примеры_Разработки" />
+      <component name="ProjectResources">
+        <xml-schema-version>XMLSchema_1_1</xml-schema-version>
       </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true" />
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="vcs.Git" />
+        <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+        <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
-        <property name="nodejs_interpreter_path" value="C:\Program Files\nodejs\node" />
-        <property name="project.structure.last.edited" value="Project" />
-        <property name="project.structure.proportion" value="0.0" />
-        <property name="project.structure.side.proportion" value="0.19334187" />
-        <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/GitHub/PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0/cmd/git.exe" />
       </component>
       <component name="RunManager">
-        <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-          <module name="" />
-          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-          <option name="PROGRAM_PARAMETERS" />
-          <method />
-        </configuration>
-        <configuration default="true" type="Applet" factoryName="Applet">
-          <option name="WIDTH" value="400" />
-          <option name="HEIGHT" value="300" />
-          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-          <module />
-          <method />
-        </configuration>
         <configuration default="true" type="Application" factoryName="Application">
           <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
           <option name="MAIN_CLASS_NAME" />
@@ -138,57 +115,27 @@
           <listeners />
           <method />
         </configuration>
+        <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+          <option name="MAIN_CLASS_NAME" />
+          <option name="HTML_FILE_NAME" />
+          <option name="HTML_USED" value="false" />
+          <option name="WIDTH" value="400" />
+          <option name="HEIGHT" value="300" />
+          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <option name="VM_PARAMETERS" />
+        </configuration>
+        <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+        </configuration>
       </component>
       <component name="VcsContentAnnotationSettings">
         <option name="myLimit" value="2678400000" />
       </component>
+      <component name="VcsManagerConfiguration">
+        <option name="MAXIMUM_HISTORY_ROWS" value="2000" />
+      </component>
       <component name="masterDetails">
         <states>
-          <state key="ArquillianSettingsConfigurable.UI">
-            <settings>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.19334187" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-          <state key="GlobalLibrariesConfigurable.UI">
-            <settings>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.19334187" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-          <state key="JdkListConfigurable.UI">
-            <settings>
-              <last-edited>1.8</last-edited>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.19334187" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-          <state key="ProjectLibrariesConfigurable.UI">
-            <settings>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.19334187" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
           <state key="ScopeChooserConfigurable.UI">
             <settings>
               <splitter-proportions>
